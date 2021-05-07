@@ -1,0 +1,11 @@
+You find an old diary. You open it and begin to read it.
+<i> 8/26 </i>
+<i> Dear Diary, </i>
+<i> Struggling to sleep yet again.</i>
+<i> Somehow the mornings get easier and easier but these nights are still the same.</i>
+<i> Things have to get worse before they get better.</i>
+<i> You will have to continue reminding me of this.</i>
+<i> I forget even though it's been so true lately. But I'll try to remember.</i>
+<i> ...I should try to go back to sleep...</i>
+<i> Goodnight.</i>
+<i> -K</i>

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Level Map
+    uniqueID: 3100738093
+    locked: 0
+  - name: Background
+    uniqueID: 2690803555
+    locked: 0
+  - name: Midground
+    uniqueID: 2247861577
+    locked: 0
+  - name: Foreground
+    uniqueID: 1317844267
+    locked: 0
+  - name: Gameplay
+    uniqueID: 1107542129
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
